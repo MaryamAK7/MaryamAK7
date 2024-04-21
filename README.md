@@ -14,7 +14,7 @@
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma) 
 ![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-![C#](https://img.shields.io/badge/-CSharp-181717?style=flat-square&logo=csharp)
+![C#](https://img.shields.io/badge/-CSharp-512bd4?style=flat-square&logo=csharp)
 ![SQL Server](https://img.shields.io/badge/-SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver)
 ![UX](https://img.shields.io/badge/-UX-181717?style=flat-square)
 
