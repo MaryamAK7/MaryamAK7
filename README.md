@@ -3,13 +3,13 @@
 <h4 align="center">I'm a Front-end web developer, based in Lebanon. Passionate about creating engaging and user-friendly web experiences through innovative design and cutting-edge technologies </h6>
 
 ## 🛠️ My Stack
-![Angular](https://img.shields.io/badge/-Anular-red?style=flat-square&logo=angular&logoColor=ffffff) 
+![Angular](https://img.shields.io/badge/-Anular-d32f2f?style=flat-square&logo=angular&logoColor=ffffff) 
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=ffffff) 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
 ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)  
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=Bootstrap) 
-![Primeng](https://img.shields.io/badge/-Primeng-red?style=flat-square) 
+![Primeng](https://img.shields.io/badge/-Primeng-d32f2f?style=flat-square) 
 ![MaterialDesign](https://img.shields.io/badge/-Material_Design-005cbb?style=flat-square&logo=materialdesign) 
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma) 
 ![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
